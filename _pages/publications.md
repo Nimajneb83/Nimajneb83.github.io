@@ -7,8 +7,12 @@ nav: true
 nav_order: 2
 ---
 
-## Journal Articles
-{% bibliography -f papers -q @article --style apa %}
+<!-- Bibsearch Feature -->
 
-## Conference Proceedings  
-{% bibliography -f papers -q @inproceedings --style apa %}
+{% include bib_search. liquid s}
+
+<div class="publications">
+
+{% bibliography %}
+
+</div>
