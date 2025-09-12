@@ -2,14 +2,20 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: Cognitive Construction Lab # the website title (if blank, full name will be used instead)
+first_name: Benjamin
+middle_name: 
+last_name: Pitt
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  We study how people construct cognition in context.
+  All human learning, reasoning, and inference takes place in a rich cultural, linguistic, and physical context, which imposes elaborate structure on people’s experience.
+  The goal of the lab's research program is to understand how this structure shapes people's concepts, with a focus on space, time, and number representations.
+  To do this, we use methods from disparate disciplines and studies diverse populations.
+  For example, we use cross-cultural methods to investigate how language and culture shape systems of conceptual representation in indigenous Amazonians, developmental methods to identify their ontogenetic starting point in children, and lab-based experimental methods to make causal inferences in adults.
+  This research seeks to explain how the richness and diversity of human cognition arises lawfully from the structure of human experience as it varies across groups, over development, and even from moment-to-moment in the same mind.
+
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
