@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -27,8 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+We study how people construct cognition in context. All human learning, reasoning, and inference takes place in a rich cultural, linguistic, and physical context, which imposes elaborate structure on people’s experience. The goal of my research program is to understand how this structure shapes people's concepts, with a focus on space, time, and number representations. To do this, my lab uses methods from disparate disciplines and studies diverse populations. For example, we use cross-cultural methods to investigate how language and culture shape systems of conceptual representation in indigenous Amazonians, developmental methods to identify their ontogenetic starting point in children, and lab-based experimental methods to make causal inferences in adults. This research seeks to explain how the richness and diversity of human cognition arises lawfully from the structure of human experience as it varies across groups, over development, and even from moment-to-moment in the same mind.
