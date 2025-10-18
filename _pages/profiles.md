@@ -27,4 +27,10 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Open lab manager position!</p>
+  - align: left
+    image: braindoodle.jpg
+    content: about_postdoc.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Open post-doc position!</p>
 ---
