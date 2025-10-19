@@ -1,4 +1,11 @@
-We study how people construct cognition in context. All human learning, reasoning, and inference takes place in a rich cultural, linguistic, and physical context, which imposes elaborate structure on people’s experience. The goal of my research program is to understand how this structure shapes people's concepts, with a focus on space, time, and number representations. To do this, my lab uses methods from disparate disciplines and studies diverse populations. For example, we use cross-cultural methods to investigate how language and culture shape systems of conceptual representation in indigenous Amazonians, developmental methods to identify their ontogenetic starting point in children, and lab-based experimental methods to make causal inferences in adults. This research seeks to explain how the richness and diversity of human cognition arises lawfully from the structure of human experience as it varies across groups, over development, and even from moment-to-moment in the same mind.
+Thinking does not happen in a vacuum. Rather, all human learning, memory, and reasoning happens in a particular cultural, linguistic, and physical context. In the Cognitive Construction (Coco) Lab, we study how this context shapes the way people think, even about fundamental concepts like space, time, and numbers. To do this, we conduct behavioral experiments in people of different ages (e.g. children and adults) with different abilities (e.g. blind and sighted) from different cultures (e.g. educated Americans and indigenous Amazonians). Our research seeks to clarify how the diversity of human minds arises from the diversity of human experience, and what this can teach us about how people get so smart.
+
+%Our research seeks to clarify why cognition varies and what this means for the construction of  
+
+%how human minds are constructed through experience, and what this can teach us about how people get so smart.
+
+ 
+%human minds are structured by experience, as it varies across groups, over development, and even from moment-to-moment in the same mind.
 
 
 %Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
