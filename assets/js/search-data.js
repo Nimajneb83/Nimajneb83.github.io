@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "Research",
-          description: "The lab uses mixed methods to study how thinking varies across cultures, ages, and contexts – cognitive diversity, development, and dynamics.",
+          description: "The lab uses mixed methods to study cognitive diversity, development, and dynamics – how thinking varies across cultures, ages, and contexts.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
@@ -43,17 +43,17 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-cognitive-development",
           title: 'Cognitive development',
-          description: "How does cognition change as children are enculturated?",
+          description: "How thinking changes over time, as children are enculturated",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Development/";
             },},{id: "projects-cognitive-diversity",
           title: 'Cognitive diversity',
-          description: "in small-scale societies",
+          description: "How minds differ across cultures, languages, etc.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Diversity/";
             },},{id: "projects-cognitive-dynamics",
           title: 'Cognitive dynamics',
-          description: "in small-scale societies",
+          description: "How mental representations are rapidly reshaped by experience",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Dynamics/";
             },},{
