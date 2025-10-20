@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Cognitive development
-description: How does cognition change as children are enculturated?
-img: assets/img/development/kidswithblocks.jpeg
-importance: 1
+description: How thinking changes over time, as children are enculturated
+img: assets/img/development/kidswithblocks_ratio.jpeg
+importance: 2
 category: work
 related_publications: false
 ---
@@ -48,3 +48,4 @@ Cognition varies not just across groups but within individual people over time. 
 <div class="caption">
     Our development studies include children in various cultures, including those living in small-scale societies like the Tsimane' of Bolivia. By comparing cognitive development across cultures, we get empirical leverage on the effects of schooling, age, material culture, ecology, and other factors.
 </div>
+

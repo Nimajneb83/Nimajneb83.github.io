@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Cognitive diversity
-description: in small-scale societies
-img: assets/img/diversity/treesriver.jpeg
+description: How minds differ across cultures, languages, etc.
+img: assets/img/diversity/tangleface.jpeg
 importance: 1
 category: work
 related_publications: false

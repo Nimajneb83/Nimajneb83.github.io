@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Cognitive dynamics
-description: in small-scale societies
+description: How mental representations are rapidly reshaped by experience
 img: assets/img/dynamics/colordance.jpg
-importance: 1
+importance: 3
 category: work
 related_publications: false
 ---

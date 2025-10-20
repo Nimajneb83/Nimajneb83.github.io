@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-description: The lab uses mixed methods to study how thinking varies across cultures, ages, and contexts – cognitive diversity, development, and dynamics.
+description: The lab uses mixed methods to study cognitive diversity, development, and dynamics – how thinking varies across cultures, ages, and contexts.
 nav: true
 nav_order: 1
 #display_categories: [work, fun]
