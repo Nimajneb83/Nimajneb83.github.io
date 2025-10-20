@@ -2,9 +2,9 @@
 layout: page
 title: Research
 permalink: /research/
-description: The lab studies how cognition varies across cultures (i.e. Diversity), ages (i.e. Development), and contexts (i.e. Dynamics).
-nav: false
-nav_order: 4
+description: The lab uses mixed methods to study how thinking varies across cultures, ages, and contexts – cognitive diversity, development, and dynamics.
+nav: true
+nav_order: 1
 #display_categories: [work, fun]
 horizontal: false
 ---

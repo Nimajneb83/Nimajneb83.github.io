@@ -16,10 +16,8 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   For example, we use cross-cultural methods to investigate how language and culture shape systems of conceptual representation in indigenous Amazonians, developmental methods to identify their ontogenetic starting point in children, and lab-based experimental methods to make causal inferences in adults.
   This research seeks to explain how the richness and diversity of human cognition arises lawfully from the structure of human experience as it varies across groups, over development, and even from moment-to-moment in the same mind.
 
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+#footer_text: >
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme and hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

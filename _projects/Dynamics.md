@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Fieldwork
+title: Cognitive dynamics
 description: in small-scale societies
-img: assets/img/fieldwork/treesriver.jpeg
+img: assets/img/dynamics/colordance.jpg
 importance: 1
 category: work
 related_publications: false
 ---
 
-To study cognitive diversity, the lab does research in a variety of cultural settings, including among indigenous, small-scale societies. Most of this fieldwork has focused on the Tsimane', a group of farmer-foragers living in the Amazon basin of Bolivia. We are also establishing a new fieldsite in Belize among Mopan and Q'eqchi' Maya communities.
+Cognition happens in context and the context is always changing. Our studies of these dynamics reveal that the mind is exquisitely sensisitve to the structure of experience: Change the structure of people's experience, and the mind follows. Lab experiments allow us to manipulate individual features of people's cultural, linguistic, and bodily experience and observe their (transient but systematic) effects on mental representations. The cognitive mechanisms that underlie these moment-by-moment changes are often the same ones that drive cognitive variation at larger timescales (e.g. over development) and across groups.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/fieldwork/lazydog.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dynamics/labtraining.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

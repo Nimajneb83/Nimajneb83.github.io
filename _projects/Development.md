@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Development
+title: Cognitive development
 description: How does cognition change as children are enculturated?
 img: assets/img/development/kidswithblocks.jpeg
 importance: 1

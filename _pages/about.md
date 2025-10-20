@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: <a href='https://www.umass.edu/psychological-brain-sciences/'>Department of Psychological & Brain Science</a> at the University of Massachusetts Amherst
 
