@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Research
+permalink: /research/
+description: The lab studies how cognition varies across cultures (i.e. Diversity), ages (i.e. Development), and contexts (i.e. Dynamics).
 nav: false
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 4
+#display_categories: [work, fun]
 horizontal: false
 ---
 
