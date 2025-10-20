@@ -24,7 +24,7 @@ Cognition varies not just across groups but within individual people over time. 
 </div>
 
 <div class="caption">
-    The lab conducts developmental studies in the lab, in science museums, and in the classroom.
+    The lab conducts developmental studies in the lab, in science museums, and in the classroom. They consist of simple games designed to test features of memory, reasoning, or preference.
 </div>
 
 <div class="row">
@@ -46,5 +46,5 @@ Cognition varies not just across groups but within individual people over time. 
     </div>
 </div>
 <div class="caption">
-    Our development studies include children in various cultures, including those living in small-scale societies like the Tsimane' of Bolivia.
+    Our development studies include children in various cultures, including those living in small-scale societies like the Tsimane' of Bolivia. By comparing cognitive development across cultures, we get empirical leverage on the effects of schooling, age, material culture, ecology, and other factors.
 </div>
