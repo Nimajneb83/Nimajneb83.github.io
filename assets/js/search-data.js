@@ -48,7 +48,7 @@ ninja.data = [{
               window.location.href = "/projects/Development/";
             },},{id: "projects-cognitive-diversity",
           title: 'Cognitive diversity',
-          description: "How minds differ across cultures, languages, etc.",
+          description: "How minds differ across cultures and languages.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Diversity/";
             },},{id: "projects-cognitive-dynamics",
@@ -83,6 +83,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=rcdeLysAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://drive.google.com/file/d/1SoV4HkzB0AizRgTTQhtZREDl8kEuRxBN/view?usp=sharing", "_blank");
         },
       },{
       id: 'light-theme',
