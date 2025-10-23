@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cognitive diversity
-description: How minds differ across cultures, languages, etc.
+description: How minds differ across cultures and languages.
 img: assets/img/diversity/tangleface.jpeg
 importance: 1
 category: work
@@ -12,7 +12,7 @@ To study cognitive diversity, the lab does research in a variety of cultural set
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/diversity/rugs.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/diversity/lazydog.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

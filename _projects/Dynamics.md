@@ -48,16 +48,3 @@ Cognition happens in context and the context is always changing. Our studies of 
         </p>
     </div>
 </div>
-
-<div class="row align-items-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <h4>Space and time</h4>
-        <p>
-            Here an indiegnous Tsimane' woman organizes pictures of ripening bananas in order from oldest to newest. Although people everywhere seem to use space to think about time, the specific direction of this <i>mental timeline</i> (and other mental mappings) depends on cultural practices like reading and writing. Without such practices, these mappings have no default direction {% cite pitt2021spatial %}.
-  
-        </p>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/dynamics/timeline.gif" title="animated example" class="img-fluid rounded" %}
-    </div>
-</div>

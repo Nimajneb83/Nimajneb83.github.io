@@ -7,7 +7,7 @@ first_name: Benjamin
 middle_name: 
 last_name: Pitt
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   We study how people construct cognition in context.
   All human learning, reasoning, and inference takes place in a rich cultural, linguistic, and physical context, which imposes elaborate structure on people’s experience.
