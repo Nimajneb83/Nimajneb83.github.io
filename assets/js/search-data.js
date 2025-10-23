@@ -53,7 +53,7 @@ ninja.data = [{
               window.location.href = "/projects/Diversity/";
             },},{id: "projects-cognitive-dynamics",
           title: 'Cognitive dynamics',
-          description: "How mental representations are rapidly reshaped by experience",
+          description: "How mental representations are rapidly shaped and reshaped by experience",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Dynamics/";
             },},{
