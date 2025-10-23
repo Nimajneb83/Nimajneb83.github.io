@@ -9,19 +9,14 @@ last_name: Pitt
 contact_note: >
   
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  We study how people construct cognition in context.
-  All human learning, reasoning, and inference takes place in a rich cultural, linguistic, and physical context, which imposes elaborate structure on people’s experience.
-  The goal of the lab's research program is to understand how this structure shapes people's concepts, with a focus on space, time, and number representations.
-  To do this, we use methods from disparate disciplines and studies diverse populations.
-  For example, we use cross-cultural methods to investigate how language and culture shape systems of conceptual representation in indigenous Amazonians, developmental methods to identify their ontogenetic starting point in children, and lab-based experimental methods to make causal inferences in adults.
-  This research seeks to explain how the richness and diversity of human cognition arises lawfully from the structure of human experience as it varies across groups, over development, and even from moment-to-moment in the same mind.
+  Cognitive science research laboratory in the Department of Psychological & Brain Sciences at UMass Amherst.
 
 #footer_text: >
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme and hosted by <a href="https://pages.github.com/" target="_blank">GitHub</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: braindoodle.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: brain-organic.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://Nimajneb83.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
