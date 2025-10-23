@@ -5,7 +5,7 @@ description: How minds differ across cultures, languages, etc.
 img: assets/img/diversity/tangleface.jpeg
 importance: 1
 category: work
-related_publications: false
+related_publications: true
 ---
 
 To study cognitive diversity, the lab does research in a variety of cultural settings, including among indigenous, small-scale societies. Most of this diversity has focused on the Tsimane', a group of farmer-foragers living in the Amazon basin of Bolivia. We are also establishing a new fieldsite in Belize among Mopan and Q'eqchi' Maya communities.
@@ -35,3 +35,16 @@ To study cognitive diversity, the lab does research in a variety of cultural set
     Left: Some Tsimane' communities are accessible only by river canoe. Center: Some Tsimane' children attend school, but the level of formal schooling varies widely among adults. Right: A native Tsimane' research assistant interviews a Tsimane' girl in her local schoolhouse.
 </div>
 
+<div class="row align-items-center">
+        <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/diversity/timeline.gif" title="animated example" class="img-fluid rounded" %}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <h4>Example study: Mental mappings across cultures</h4>
+        <p>
+            Here an indiegnous Tsimane' woman organizes pictures of ripening bananas in order from oldest to newest. Although people everywhere seem to use space to think about time, the specific direction of this <i>mental timeline</i> (and other mental mappings) depends on cultural practices like reading and writing. Without such practices, these mappings are orderly but have no default direction: Tsimane' adults were equally likely to make mappings that went downwards and upwards, rightwards and leftwards, and away and towards them {% cite pitt2021spatial %}.
+  
+        </p>
+    </div>
+
+</div>
