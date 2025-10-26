@@ -1,0 +1,13 @@
+// Show/hide logo based on theme
+html[data-theme='light'] .logo-dark,
+html:not([data-theme='dark']) .logo-dark {
+  display: none;
+}
+
+html[data-theme='dark'] .logo-light {
+  display: none;
+}
+
+html:not([data-theme]) .logo-dark {
+  display: none;
+}
