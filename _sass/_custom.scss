@@ -11,3 +11,33 @@ html[data-theme='dark'] .logo-light {
 html:not([data-theme]) .logo-dark {
   display: none;
 }
+
+// Home page logo styling
+.home-logo {
+  max-width: 600px;
+  width: 90%;
+  height: auto;
+  margin: 2rem auto;
+  display: block;
+}
+
+// Responsive sizing
+@media (max-width: 768px) {
+  .home-logo {
+    max-width: 400px;
+  }
+}
+
+@media (max-width: 480px) {
+  .home-logo {
+    max-width: 300px;
+  }
+}
+
+// Center and style the description
+.post-header .desc {
+  text-align: center;
+  font-size: 1.1rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
