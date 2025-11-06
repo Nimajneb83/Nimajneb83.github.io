@@ -89,7 +89,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://drive.google.com/file/d/1SoV4HkzB0AizRgTTQhtZREDl8kEuRxBN/view?usp=sharing", "_blank");
+          window.open("https://drive.google.com/file/d/1U-TW5QIwJtvWMeYftPBmBR4PSql3IOUd/view?usp=sharing", "_blank");
         },
       },{
       id: 'light-theme',
