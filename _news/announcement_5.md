@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper published [Nature Communications] (https://www.nature.com/articles/s41467-026-73029-9) on how kids across cultures learn by decoding patterns!
+New paper published [Nature Communications](https://doi.org/10.1038/s41467-026-73029-9) on how kids across cultures learn by decoding patterns!
