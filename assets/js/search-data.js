@@ -35,10 +35,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-cognitiveconstructionlab-com-launches-sparkles",
-          title: 'CognitiveConstructionLab.com launches! :sparkles:',
-          description: "",
-          section: "News",},{id: "news-the-lab-is-hiring-see-the-people-page-for-details",
+            },},{id: "news-the-lab-is-hiring-see-the-people-page-for-details",
           title: 'The lab is hiring! See the people page for details…',
           description: "",
           section: "News",},{id: "news-new-paper-out-today-in-psychological-science",
@@ -46,6 +43,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-new-paper-with-dorsa-amir-in-trends-in-cognitive-science-asks-what-does-it-mean-for-culture-to-shape-cognition",
           title: 'New paper with Dorsa Amir in Trends in Cognitive Science asks “What does...',
+          description: "",
+          section: "News",},{id: "news-new-paper-published-nature-communications-https-www-nature-com-articles-s41467-026-73029-9-on-how-kids-across-cultures-learn-by-decoding-patterns",
+          title: 'New paper published [Nature Communications] (https://www.nature.com/articles/s41467-026-73029-9) on how kids across cultures learn by...',
           description: "",
           section: "News",},{id: "projects-cognitive-development",
           title: 'Cognitive development',
