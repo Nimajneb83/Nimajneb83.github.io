@@ -35,10 +35,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-the-lab-is-hiring-see-the-people-page-for-details",
-          title: 'The lab is hiring! See the people page for details…',
-          description: "",
-          section: "News",},{id: "news-new-paper-out-today-in-psychological-science",
+            },},{id: "news-new-paper-out-today-in-psychological-science",
           title: 'New paper out today in Psychological Science!',
           description: "",
           section: "News",},{id: "news-new-paper-with-dorsa-amir-in-trends-in-cognitive-science-asks-what-does-it-mean-for-culture-to-shape-cognition",
