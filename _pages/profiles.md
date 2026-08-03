@@ -16,21 +16,21 @@ profiles:
     more_info: >
       <p>Dr. Benjamin Pitt</p>
   - align: left
+    image: Vitoria.jpg
+    content: about_labmanager.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Vitória Reyes</p>
+  - align: left
+    image: Gracie.jpg
+    content: about_gracie.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Gracie Zeller</p>
+  - align: left
     image: braindoodle.jpg
     content: about_grad.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Open grad student position!</p>
-  - align: left
-    image: braindoodle.jpg
-    content: about_labmanager.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Open lab manager position!</p>
-  - align: left
-    image: braindoodle.jpg
-    content: about_postdoc.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Open post-doc position!</p>
 ---
