@@ -1,0 +1,1 @@
+Gracie is a PhD student in the Cognition and Cognitive Neuroscience program. Before coming to UMass, she earned her bachelor’s degree from the University of Wisconsin–Madison and worked as a research assistant and later a lab manager in the Cognitive Origins Lab. She is interested in the origins and development of numerical cognition.
