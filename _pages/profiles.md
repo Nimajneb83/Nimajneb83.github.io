@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: Lab members and affiliates
+description: Lab members
 nav: true
 nav_order: 7
 
@@ -14,23 +14,23 @@ profiles:
     content: about_ben.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Dr. Benjamin Pitt</p>
+      <p>Benjamin Pitt</p>
   - align: left
     image: Vitoria.jpg
     content: about_labmanager.md
-    image_circular: false # crops the image to make it circular
+    image_circular: false 
     more_info: >
       <p>Vitória Reyes</p>
   - align: left
     image: Gracie.jpg
-    content: about_gracie.md
-    image_circular: false # crops the image to make it circular
+    content: about_Gracie.md
+    image_circular: false 
     more_info: >
       <p>Gracie Zeller</p>
   - align: left
     image: braindoodle.jpg
     content: about_grad.md
-    image_circular: false # crops the image to make it circular
+    image_circular: false
     more_info: >
-      <p>Open grad student position!</p>
+      <p>Open grad student position</p>
 ---
